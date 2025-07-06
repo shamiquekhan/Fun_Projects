@@ -1,5 +1,4 @@
 import random
-
 # Function to let one player play the guessing game
 def play_game(player_name):
     number_to_guess = random.randint(1, 100)
